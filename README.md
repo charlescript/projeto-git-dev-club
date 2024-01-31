@@ -18,4 +18,4 @@
 ### Esse projeto teve o intuito apenas de rever conceitos básicos de responsividade.
 
 
-https://github.com/charlescript/we-care-animals/raw/develop/img/captura_tela_desktop.png
+
